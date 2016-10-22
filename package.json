@@ -1,0 +1,22 @@
+{
+  "name": "as",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Happy-Everyday/Axure.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "Tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Happy-Everyday/Axure/issues"
+  },
+  "homepage": "https://github.com/Happy-Everyday/Axure#readme"
+}
